@@ -1,0 +1,4 @@
+User-agent:*
+
+Host: http://security-pro.zzz.com.ua
+Sitemap: http://security-pro.zzz.com.ua/sitemap.xml
